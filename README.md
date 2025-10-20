@@ -23,14 +23,14 @@ With over **2 years of experience in Flutter**, I’ve worked on real-world proj
 
 ### 🔹 Frontend & Mobile
 - Flutter (Dart)
-- State Management: Riverpod, BLoC, Provider
+- State Management: Riverpod, Provider
 - Firebase (Auth, FCM, Firestore)
 - RESTful API integration
 - Responsive UI/UX design
 
 ### 🔹 Backend
 - Learning **C# (.NET)**
-- Familiar with **SQL**, **TSQL** **PostgreSQL**, **API Design**
+- Familiar with **SQL**, **TSQL**, **API Design**
 
 ### 🔹 Tools & Others
 - Git & GitHub  
