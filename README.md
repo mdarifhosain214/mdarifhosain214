@@ -56,10 +56,25 @@ With over **2 years of experience in Flutter**, I’ve worked on real-world proj
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Statistics  
 
-![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosainarif&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosainarif&layout=compact&theme=tokyonight)
+### 💻 GitHub Profile Stats  
+![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdarifhosain214&show_icons=true&theme=tokyonight&hide_border=false)
+
+### 🔥 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdarifhosain214&theme=tokyonight&hide_border=false)
+
+### 🧠 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarifhosain214&layout=compact&theme=tokyonight&hide_border=false)
+
+### 📈 Contribution Graph  
+![Arif's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdarifhosain214&theme=tokyo-night)
+
+---
+
+## 🏆 GitHub Achievements  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdarifhosain214&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
@@ -67,7 +82,7 @@ With over **2 years of experience in Flutter**, I’ve worked on real-world proj
 
 - 💼 [LinkedIn](https://www.linkedin.com/)  
 - 🧑‍💻 [GitHub](https://github.com/hosainarif)  
-- ✉️ Email: hosainarif.dev@gmail.com  
+- ✉️ Email: **mdarifhosain214@gmail.com**
 
 ---
 
