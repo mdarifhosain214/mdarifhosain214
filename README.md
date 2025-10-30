@@ -4,14 +4,14 @@
 
 Welcome to my GitHub profile!  
 I’m passionate about building **beautiful, high-performance mobile apps** and learning to design **scalable backend systems**.  
-With over **2 years of experience in Flutter**, I’ve worked on real-world projects involving **state management, clean architecture, and API integrations**.  
+With over **3 years of experience in Flutter**, I’ve worked on real-world projects involving **state management, clean architecture, and API integrations**.  
 
 ---
 
 ## 🧠 About Me  
 
 - 💼 **Current Role:** Flutter Developer  
-- 📱 **Experience:** 2+ years (including a 4-month internship)  
+- 📱 **Experience:** 3+ years (including a 4-month internship)  
 - 🧩 **Project:** *TSOM (Telecommunication Service & Operation Management System)*  
 - 💡 Exploring **.NET (C#)** and **Spring Boot** for backend development  
 - 🎯 Passionate about **Clean Architecture**, **OOP**, and **scalable app design**  
