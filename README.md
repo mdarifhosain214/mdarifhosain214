@@ -80,7 +80,7 @@ With over **3 years of experience in Flutter**, I’ve worked on real-world proj
 
 ## 📫 Connect With Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/hosain-arif-7b91472a9)  
 - 🧑‍💻 [GitHub](https://github.com/hosainarif)  
 - ✉️ Email: **mdarifhosain214@gmail.com**
 
