@@ -11,7 +11,7 @@ With over **3 years of experience in Flutter**, I’ve worked on real-world proj
 ## 🧠 About Me  
 
 - 💼 **Current Role:** Flutter Developer  
-- 📱 **Experience:** 3+ years (including a 4-month internship)  
+- 📱 **Experience:** 3+ years 
 - 🧩 **Project:** *TSOM (Telecommunication Service & Operation Management System)*  
 - 💡 Exploring **.NET (C#)** and **Spring Boot** for backend development  
 - 🎯 Passionate about **Clean Architecture**, **OOP**, and **scalable app design**  
@@ -81,7 +81,8 @@ With over **3 years of experience in Flutter**, I’ve worked on real-world proj
 ## 📫 Connect With Me  
 
 - 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/hosain-arif-7b91472a9)  
-- 🧑‍💻 [GitHub]([https://github.com/hosainarif](https://github.com/mdarifhosain214/mdarifhosain214)  
+- 🧑‍💻 [GitHub]([https://github.com/hosainarif](https://github.com/mdarifhosain214/mdarifhosain214)
+- 🌐 [Portfolio] ([ https://md-arifhosain.web.app]( https://md-arifhosain.web.app)
 - ✉️ Email: **mdarifhosain214@gmail.com**
 
 ---
