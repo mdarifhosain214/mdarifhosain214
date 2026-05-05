@@ -84,7 +84,7 @@ Food truck discovery app with real-time tracking
 Healthcare staffing platform  
 - 📍 Find & apply for shifts  
 - 📊 Track payments & performance  
-- 🔗 https://play.google.com/store/apps/details?id=com.viralhands  
+- 🔗Play Store: https://play.google.com/store/apps/details?id=com.viralhands  
 
 ---
 
