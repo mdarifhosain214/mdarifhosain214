@@ -101,7 +101,7 @@ Work tracking & cost calculation
 Self-care & wellness app  
 - 🧘 Meditation & routines  
 - 📔 Mood tracking & journaling  
-- 🔗 https://play.google.com/store/apps/details?id=com.ayniwellness.ayni_wellness 
+- 🔗Play Store: https://play.google.com/store/apps/details?id=com.ayniwellness.ayni_wellness 
 - 🔗 App Store: https://apps.apple.com/us/app/ayni-wellness/id6759598419 
 
 ---
