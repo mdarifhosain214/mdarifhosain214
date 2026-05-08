@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Md Arif Hosain  
+#  Hi, I'm Md Arif Hosain  
 
-🚀 **Flutter Developer | Cross-Platform App Builder | Exploring Spring Boot**
+ **Flutter Developer | Cross-Platform App Builder | Exploring Spring Boot**
 
 Welcome to my GitHub! I build **high-performance, scalable, and user-friendly mobile applications** using Flutter.  
 I enjoy solving real-world problems, optimizing performance, and designing clean architectures.  
@@ -8,13 +8,12 @@ Currently, I’m expanding my skills toward **full-stack development with Spring
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 
 - 💼 Flutter Developer with **3+ years of experience**  
 - 📱 Built & deployed **5+ apps** on Play Store & App Store  
 - ⚡ Reduced app crashes by **30%** & improved UX by **20%**  
-- 💳 Experienced in **In-App Purchase (RevenueCat)**  
-- 🧩 Worked on **TSOM (Telecommunication Service & Operation Management System)**  
+- 💳 Experienced in **In-App Purchase (RevenueCat)**   
 - 🎯 Passionate about **Clean Architecture, OOP, and scalable system design**  
 - 🌍 Based in **Bangladesh**  
 
