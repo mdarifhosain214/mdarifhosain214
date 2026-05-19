@@ -179,7 +179,7 @@ Flutter-based responsive portfolio website
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mdarifhosain  
+- 💼 LinkedIn: https://www.linkedin.com/in/md-arifhosain  
 - 🌐 Portfolio: https://md-arifhosain.web.app  
 - ✉️ Email: mdarifhosain214@gmail.com
 
